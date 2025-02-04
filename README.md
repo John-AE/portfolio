@@ -17,7 +17,7 @@ Data Visualization - Tableau, MS Excel
 Project Management – MS Project, Oracle Primavera P6s
 
 ### Certifications
-WorldQuant University Scientific Computing and Python for Data Science 
+WorldQuant University Scientific Computing and Python for Data Science
 Alteryx Designer Core Certified
 Data Foundations Nanodegree (Udacity)
 Data Analyst with Python Track (DataCamp)
