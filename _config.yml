@@ -1,5 +1,7 @@
 title: John Amaka
 logo: https://www.credly.com/badges/4f4a1413-6db1-492c-b6ff-2668f69a0b8d/public_url
 description: A professional with a background in Project Management seeking to transition into data science having garnered skills towards data analysis and engineering via self-study
+description: 
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4f4a1413-6db1-492c-b6ff-2668f69a0b8d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 show_downloads: True
 theme: jekyll-theme-minimal
