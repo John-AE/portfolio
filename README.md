@@ -27,7 +27,7 @@ University of Lagos, Nigeria
 - Project Management Professional (PMP)
 
 
-### Projects
+### Data Science Projects
 
 
 ### Work Experience
@@ -38,6 +38,11 @@ Senior Scheduler, Corridor Extensions
 Duties include (but are not limited to):
 
 - Collaborated with Senior Managers, Managers and Project Managers in developing schedules for multi-million-dollar projects from scratch using Oracle Primavera P6 for Rail Line Extension projects within Southern Ontario.
+- Performed Critical Path Analysis and reports
+- Analyzed and critiqued third party developed schedules for the construction phase of gas pipeline projects
+- Generated monthly schedule updates for different Rule 45 Projects for Interconnectors seeking to supply bio methane gas into SoCalGas utility.
+- Developed a Schedule Dashboard report that highlights key performance indicators of different projects for upper management.
+- Prepared a monthly stage-and-milestone report for the cost and budgeting department.
 
 #### E2 Consulting Engineers Inc., Los Angeles, California, USA		                              
 Project Controls Scheduler
