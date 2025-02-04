@@ -35,8 +35,8 @@ University of Lagos, Nigeria
 ### Work Experience
 
 #### Metrolinx, Toronto, Ontario, Canada
-Senior Scheduler, Corridor Extensions
-22 Nov 2021 – 19 July, 2024
+**Senior Scheduler, Corridor Extensions**
+| 22 Nov 2021 – 19 July, 2024 |
 Duties include (but are not limited to):
 
 - Collaborated with Senior Managers, Managers and Project Managers in developing schedules for multi-million-dollar projects from scratch using Oracle Primavera P6 for Rail Line Extension projects within Southern Ontario.
@@ -47,7 +47,7 @@ Duties include (but are not limited to):
 
 
 #### E2 Consulting Engineers Inc., Los Angeles, California, USA		                              
-Project Controls Scheduler
+**Project Controls Scheduler**
 21 Dec 2020 – 30 June 2021
 Duties include (but not limited to):
 
@@ -57,7 +57,7 @@ Duties include (but not limited to):
 - Prepared of a monthly stage-and-milestone report for the cost and budgeting department.
 
 #### Ruscilli Construction Co Inc., Ohio, USA
-P6 Scheduler
+**P6 Scheduler**
 10 Dec 2018 – 18 Sept 2020
 Duties include (but not limited to): 
 
@@ -74,7 +74,7 @@ Duties include (but not limited to):
 - Supported the different project teams with delays and impacts through development of a time impact analysis using P6.
 
 #### Woda Cooper Companies Inc., Ohio, USA	
-Project Engineer/ Coordinator
+**Project Engineer/ Coordinator**
 30 July 2018 – 7 Dec 2018
 Duties included (but not limited to):
 	
@@ -88,7 +88,7 @@ Duties included (but not limited to):
 - Evaluated and confirmed payment requests for all received unmatched invoices when provided by the accounting unit.
 
 #### Bowling Green State University, Ohio, USA
-Graduate Teaching Assistant
+**Graduate Teaching Assistant**
 22 August 2016 – 4 May 2018
 Assigned to two faculty members to assist with instructional duties. :
 
@@ -98,7 +98,7 @@ Assigned to two faculty members to assist with instructional duties. :
 - Held office hours for students to clarify topics discussed in class.
 
 #### Industrial Power Systems, Ohio, USA
-Project Engineer/Scheduler (Intern)
+**Project Engineer/Scheduler (Intern)**
 8 May 2017 – 18 August 2017
 Recruited to assist Senior Project Manager and Project Superintendent. Duties included:
 
@@ -109,7 +109,7 @@ Recruited to assist Senior Project Manager and Project Superintendent. Duties in
 - Prepared daily site reports and maintained its repository.
 
 #### First Bank of Nigeria Plc, Lagos, Nigeria
-Team Lead (Data Quality Assurance)
+**Team Lead (Data Quality Assurance)**
 13  June 2011– 27 May, 2016
 Duties included but not limited to:
 
