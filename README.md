@@ -48,7 +48,7 @@ Duties include (but are not limited to):
 
 #### E2 Consulting Engineers Inc., Los Angeles, California, USA		                              
 **Project Controls Scheduler**
-21 Dec 2020 – 30 June 2021
+| 21 Dec 2020 – 30 June 2021 |
 Duties include (but not limited to):
 
 - Worked with Construction Project Managers and Energy Market Project Managers in developing project schedules using Oracle Primavera P6 for gas pipelines construction at different locations within Southern California.
@@ -58,7 +58,7 @@ Duties include (but not limited to):
 
 #### Ruscilli Construction Co Inc., Ohio, USA
 **P6 Scheduler**
-10 Dec 2018 – 18 Sept 2020
+| 10 Dec 2018 – 18 Sept 2020 |
 Duties include (but not limited to): 
 
 - Using Oracle Primavera P6 Professional v 18 to accurately and closely coordinate and input all actual as-built data, decisions, changes, delays etc. from different project teams on different ongoing projects in order to update the construction schedules of the ongoing projects and analyse for deviations from the baseline schedules/previous updates.
@@ -75,7 +75,7 @@ Duties include (but not limited to):
 
 #### Woda Cooper Companies Inc., Ohio, USA	
 **Project Engineer/ Coordinator**
-30 July 2018 – 7 Dec 2018
+| 30 July 2018 – 7 Dec 2018 |
 Duties included (but not limited to):
 	
 - Processed subcontracts (using Viewpoint contract administration software) and related change orders to subcontracts.
@@ -89,7 +89,7 @@ Duties included (but not limited to):
 
 #### Bowling Green State University, Ohio, USA
 **Graduate Teaching Assistant**
-22 August 2016 – 4 May 2018
+| 22 August 2016 – 4 May 2018 |
 Assigned to two faculty members to assist with instructional duties. :
 
 - Graded assignments and examinations
@@ -99,7 +99,7 @@ Assigned to two faculty members to assist with instructional duties. :
 
 #### Industrial Power Systems, Ohio, USA
 **Project Engineer/Scheduler (Intern)**
-8 May 2017 – 18 August 2017
+| 8 May 2017 – 18 August 2017 |
 Recruited to assist Senior Project Manager and Project Superintendent. Duties included:
 
 - Maintained and updated the project schedule using MS project & Primavera P6.
@@ -110,7 +110,7 @@ Recruited to assist Senior Project Manager and Project Superintendent. Duties in
 
 #### First Bank of Nigeria Plc, Lagos, Nigeria
 **Team Lead (Data Quality Assurance)**
-13  June 2011– 27 May, 2016
+| 13  June 2011– 27 May, 2016 |
 Duties included but not limited to:
 
 - Responded to mail inquiries/complaints from 400 branches.
