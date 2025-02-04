@@ -40,11 +40,11 @@ Senior Scheduler, Corridor Extensions
 Duties include (but are not limited to):
 
 - Collaborated with Senior Managers, Managers and Project Managers in developing schedules for multi-million-dollar projects from scratch using Oracle Primavera P6 for Rail Line Extension projects within Southern Ontario.
-- Performed Critical Path Analysis and reports
-- Analyzed and critiqued third party developed schedules for the construction phase of gas pipeline projects
-- Generated monthly schedule updates for different Rule 45 Projects for Interconnectors seeking to supply bio methane gas into SoCalGas utility.
-- Developed a Schedule Dashboard report that highlights key performance indicators of different projects for upper management.
-- Prepared a monthly stage-and-milestone report for the cost and budgeting department.
+- Championed the schedule lead and development for the Halton Expansion of the Kitchener Corridor Extension Program.
+- Managed entire schedules of projects valued in hundreds of millions of dollars
+- Developed and updated schedules for projects and programs running into hundreds of millions of dollars
+- Analysed and critiqued third-party consultant and contractor-developed schedule submittals (using MS Project and/or P6) covering design and construction phases of projects, and programs.
+
 
 #### E2 Consulting Engineers Inc., Los Angeles, California, USA		                              
 Project Controls Scheduler
