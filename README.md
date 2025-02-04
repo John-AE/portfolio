@@ -1,6 +1,8 @@
 # Data Scientist / Analyst
 
-
+### Executive Summary
+  A professional with a background in Project Management seeking to transition into data science having garnered skills towards data analysis and engineering via self-study.
+  
 ### Education
 Master of Technology Management (Aug 2016 – May 2018)
 CGPA 4.0 / 4.0
