@@ -1,7 +1,11 @@
 # Data Scientist / Analyst
 
 ### Education
-Master of Tech
+Master of Technology Management
+CGPA 4.0/4/0
+Bowling Green State University
+
+
 Master of Technology Management (Aug 2016 – May 2018)
 CGPA 4.0 / 4.0
 Bowling Green State University
