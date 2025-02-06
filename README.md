@@ -16,12 +16,23 @@ University of Lagos, Nigeria
 
 
 ### Skills
-- Data Analysis – Python (Numpy, Pandas, Seaborn), MySQL Workbench/Shell, SQL Server Management Studio, Tableau, Advanced MS Excel (Power Query, DAX, Pivot Tables), Alteryx Designer
-- Data Visualization - Tableau, MS Excel
-- Project Management – MS Project, Oracle Primavera P6s
+
+| Programming Language | Skill                                    | Associated Tools                                  |
+|----------------------|------------------------------------------|---------------------------------------------------|
+| Python  	       |Data Analysis                             |Numpy, Pandas, Advanced MS Excel                   |
+| SQL                  |Data Analysis/ Database Managment         |MySQL Workbench/Shell, SQL Server Management Studio|
+| Python               |Data Visualization                        |Seaborn, Tableau, MS Excel                         |   
+| N/A                  |Project Management (Schedule Management)  | Oracle Primavera P6 & MS Project                  |
 
 
 ### Certifications
+<div>
+<img src="https://img.shields.io/badge/-WorldQuant%20University%20Data%20Science-2E86C1?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Data%20Analyst%20with%20Python%20(DataCamp)-058C42?style=for-the-badge&logo=DataCamp&logoColor=white" />
+<img src="https://img.shields.io/badge/-Project%20Management%20Professional%20(PMP)-02569B?style=for-the-badge&logo=PMI&logoColor=white" />
+</div>
+
+
 - WorldQuant University Scientific Computing and Python for Data Science
 - Alteryx Designer Core Certified
 - Data Foundations Nanodegree (Udacity)
@@ -123,4 +134,3 @@ HONORS AND AWARDS
 - Graduate Teaching Assistantship (Bowling Green State University, Ohio, USA) Aug 2016 – May 2018
 - Award of Elf Petroleum Nigeria Limited EPNL (OPL221) Merit Scholarship 2005 / 2006
 - University of Lagos Scholar Award  2005 - 2009
-
