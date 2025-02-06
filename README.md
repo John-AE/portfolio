@@ -4,15 +4,22 @@
   A professional with a background in Project Management seeking to transition into data science having garnered skills towards data analysis and engineering via self-study.
   
 ### Education
-Master of Technology Management (Aug 2016 – May 2018)
-CGPA 4.0 / 4.0
-Bowling Green State University
-Ohio, USA.
+> Master of Technology Management (Aug 2016 – May 2018)
+> 
+> CGPA 4.0 / 4.0
+> 
+> Bowling Green State University
+> 
+> Ohio, USA.
 
-B.Sc. (Hons.) Building Technology
-First (1st) Class Honours
-CGPA   3.73/4.00 (WES Evaluation of 4.61/5.00)
-University of Lagos, Nigeria
+
+> B.Sc. (Hons.) Building Technology
+> 
+> First (1st) Class Honours
+> 
+> CGPA   3.73/4.00 (WES Evaluation of 4.61/5.00)
+> 
+> University of Lagos, Nigeria
 
 
 ### Skills
