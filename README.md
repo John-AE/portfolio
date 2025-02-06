@@ -22,17 +22,17 @@
 > University of Lagos, Nigeria
 
 
-### Skills
+### 🧑‍🔬 Skills
 
-| Programming Language | Skill                                    | Associated Tools                                  |
+| Programming Language | Skill      🤓                           | Associated Tools                                  |
 |----------------------|------------------------------------------|---------------------------------------------------|
-| Python  	       |Data Analysis                             |Numpy, Pandas, Advanced MS Excel                   |
+| Python 	       |Data Analysis                             |Numpy, Pandas, Advanced MS Excel                   |
 | SQL                  |Data Analysis/ Database Managment         |MySQL Workbench/Shell, SQL Server Management Studio|
 | Python               |Data Visualization                        |Seaborn, Tableau, MS Excel                         |   
 | N/A                  |Project Management (Schedule Management)  | Oracle Primavera P6 & MS Project                  |
 
 
-### Certifications
+###  Certifications
 <div>
 <img src="https://img.shields.io/badge/-WorldQuant%20University%20Data%20Science-2E86C1?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Data%20Analyst%20with%20Python%20(DataCamp)-058C42?style=for-the-badge&logo=DataCamp&logoColor=white" />
