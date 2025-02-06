@@ -46,6 +46,7 @@
 - Data Analyst with Python Track (DataCamp)
 - Project Management Professional (PMP)
 
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 ### Data Science Projects
 
