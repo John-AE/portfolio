@@ -1,7 +1,7 @@
 # Data Scientist / Analyst
 
 ### Executive Summary
-  A professional with a background in Project Management seeking to transition into data science having garnered skills towards data analysis and engineering via self-study.
+  A professional with a background in Project Management seeking to transition into data science having garnered skills towards data analysis via self-study.
   
 ### Education
 > Master of Technology Management (Aug 2016 – May 2018)
@@ -46,12 +46,7 @@
 - Data Analyst with Python Track (DataCamp)
 - Project Management Professional (PMP)
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
-
-### Data Science Projects
-
-
-### Work Experience
+## Work Experience
 
 #### Metrolinx, Toronto, Ontario, Canada
 **Senior Scheduler, Corridor Extensions**
@@ -137,7 +132,7 @@ Duties included but not limited to:
 - Enforced Compliance with the Bank’s Account Opening Deferral Policy.
 - Coordinated with Head Retail Liabilities and Legal Department on matters relating to clauses in account opening documentation.
 
-HONORS AND AWARDS
+### HONORS AND AWARDS
 - Bertelsmann / Udacity Data Science Challenge Scholarship 2018
 - Graduate Teaching Assistantship (Bowling Green State University, Ohio, USA) Aug 2016 – May 2018
 - Award of Elf Petroleum Nigeria Limited EPNL (OPL221) Merit Scholarship 2005 / 2006
