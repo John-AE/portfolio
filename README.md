@@ -5,7 +5,7 @@
 <blockquote style="border-left: 4px solid orange; padding-left: 10px;">
   A professional with a background in Project Management seeking to transition into data science having garnered skills towards data analysis via self-study.
 </blockquote>
-<br>
+
 <br>
 
 ### Education
