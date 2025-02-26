@@ -43,6 +43,11 @@
 - Data Analyst with Python Track (DataCamp)
 - Project Management Professional (PMP)
 
+## Projects
+![Loading the Dataset](/pic_01.jpg "San Juan Mountains")
+
+
+
 ## Work Experience
 
 #### Metrolinx, Toronto, Ontario, Canada
