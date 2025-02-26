@@ -33,7 +33,6 @@
 <div>
 <img src="https://img.shields.io/badge/-WorldQuant%20University%20Data%20Science-2E86C1?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Data%20Analyst%20with%20Python%20(DataCamp)-058C42?style=for-the-badge&logo=DataCamp&logoColor=white" />
-<img src="https://img.shields.io/badge/-Project%20Management%20Professional%20(PMP)-02569B?style=for-the-badge&logo=PMI&logoColor=white" />
 </div>
 
 
