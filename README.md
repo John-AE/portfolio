@@ -44,7 +44,8 @@
 - Project Management Professional (PMP)
 
 ## Data Science Projects
-![Loading the Dataset](https://github.com/John-AE/portfolio/raw/main/pic_01.jpg)
+![Loading the DataSet](pic_01.JPG)
+
 
 
 
