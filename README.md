@@ -43,7 +43,8 @@
 - Project Management Professional (PMP)
 
 ## Data Science Projects
-- [Analyzing CO2 Emissions](https://github.com/John-AE/Analyzing-CO2-Emissions/blob/main/README.md)
+- Using Pandas and Seaborn Python Packages
+[Analyzing CO2 Emissions](https://github.com/John-AE/Analyzing-CO2-Emissions/blob/main/README.md)
 
 
 
