@@ -44,7 +44,7 @@
 - Project Management Professional (PMP)
 
 ## Data Science Projects
-![Loading the DataSet](pic_01.JPG)
+[Analyzing CO2 Emissions](https://github.com/John-AE/Analyzing-CO2-Emissions/blob/main/README.md)
 
 
 
