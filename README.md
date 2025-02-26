@@ -43,8 +43,8 @@
 - Data Analyst with Python Track (DataCamp)
 - Project Management Professional (PMP)
 
-## Projects
-![Loading the Dataset](/pic_01.jpg "San Juan Mountains")
+## Data Science Projects
+![Loading the Dataset](https://github.com/John-AE/portfolio/raw/main/pic_01.jpg)
 
 
 
