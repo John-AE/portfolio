@@ -11,8 +11,7 @@
 ### Education
 - Master of Technology Management (Aug 2016 – May 2018)
 - CGPA 4.0 / 4.0
-- Bowling Green State University
-- Ohio, USA.
+- Bowling Green State University, Ohio, USA.
 
 - B.Sc. (Hons.) Building Technology
 - First (1st) Class Honours
