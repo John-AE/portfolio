@@ -43,8 +43,7 @@
 
 ## Data Science Projects
 - [Analyzing CO2 Emissions](https://github.com/John-AE/Analyzing-CO2-Emissions/blob/main/README.md) Using Pandas and Seaborn Python Packages
-
-
+- [Restaurant Business Analysis](https://github.com/John-AE/Restaurant_Orders/blob/main/README.md) Using MySQL
 
 
 ## Work Experience
