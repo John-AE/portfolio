@@ -24,7 +24,7 @@
 |:---                  |                  :----:                  | :---                                              |
 | Python 	       |Data Analysis                             |Numpy, Pandas, Advanced MS Excel                   |
 | SQL                  |Data Analysis/ Database Management        |MySQL Workbench/Shell, SQL Server Management Studio|
-| Python               |Data Visualization                        |Seaborn, Tableau, MS Excel                         |   
+| Python               |Data Visualization                        |Seaborn, Power BI, MS Excel                        |   
 | N/A                  |Project Management (Schedule Management)  | Oracle Primavera P6 & MS Project                  |
 
 
