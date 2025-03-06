@@ -9,14 +9,19 @@
 <br>
 
 ### Education
-- Master of Technology Management (Aug 2016 – May 2018)
-- CGPA 4.0 / 4.0
-- Bowling Green State University, Ohio, USA.
+<blockquote style="border-left: 4px solid orange; padding-left: 10px;">
+  Master of Technology Management (Aug 2016 – May 2018)
+  CGPA 4.0 / 4.0
+  Bowling Green State University, Ohio, USA.
+</blockquote>
 
-- B.Sc. (Hons.) Building Technology
-- First (1st) Class Honours
-- CGPA 3.73/4.00 (WES Evaluation of 4.61/5.00)
-- University of Lagos, Nigeria
+<blockquote style="border-left: 4px solid orange; padding-left: 10px;">
+  B.Sc. (Hons.) Building Technology
+  First (1st) Class Honours
+  CGPA 3.73/4.00 (WES Evaluation of 4.61/5.00)
+  University of Lagos, Nigeria
+</blockquote>
+
 
 ### 🧑‍🔬 Skills
 
