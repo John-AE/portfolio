@@ -23,7 +23,7 @@
 </blockquote>
 <br>
 <br>
-### 🧑‍🔬 Skills
+### Skills
 
 | Programming Language | Skill                                    | Associated Tools                                  |
 |:---                  |                  :----:                  | :---                                              |
@@ -33,7 +33,7 @@
 | N/A                  |Project Management (Schedule Management)  | Oracle Primavera P6 & MS Project                  |
 
 
-### 🧑🏾‍🎓 Certifications 
+### Certifications 
 <div>
 <img src="https://img.shields.io/badge/-WorldQuant%20University%20Data%20Science-2E86C1?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Data%20Analyst%20with%20Python%20(DataCamp)-058C42?style=for-the-badge&logo=DataCamp&logoColor=white" />
