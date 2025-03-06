@@ -15,6 +15,8 @@
   Bowling Green State University, Ohio, USA.
 </blockquote>
 
+<br>
+
 <blockquote style="border-left: 4px solid orange; padding-left: 10px;">
   B.Sc. (Hons.) Building Technology
   First (1st) Class Honours
@@ -22,6 +24,7 @@
   University of Lagos, Nigeria
 </blockquote>
 
+<br>
 
 ### 🧑‍🔬 Skills
 
