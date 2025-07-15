@@ -43,11 +43,13 @@
 </div>
 
 
+- Project Management Professional (PMP)
+- Project Management Institute - Scheduling Professional (PMP)
 - WorldQuant University Scientific Computing and Python for Data Science
 - Alteryx Designer Core Certified
 - Data Foundations Nanodegree (Udacity)
 - Data Analyst with Python Track (DataCamp)
-- Project Management Professional (PMP)
+
 
 ## Data Science Projects
 - [Analyzing CO2 Emissions](https://github.com/John-AE/Analyzing-CO2-Emissions/blob/main/README.md) Using Pandas and Seaborn Python Packages
