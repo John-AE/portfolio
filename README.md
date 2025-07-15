@@ -43,8 +43,8 @@
 </div>
 
 
-- Project Management Professional (PMP)
-- Project Management Institute - Scheduling Professional (PMP)
+- Project Management Professional (PMP®)
+- Project Management Institute - Scheduling Professional (PMI-SP®)
 - WorldQuant University Scientific Computing and Python for Data Science
 - Alteryx Designer Core Certified
 - Data Foundations Nanodegree (Udacity)
