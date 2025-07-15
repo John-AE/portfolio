@@ -1,9 +1,9 @@
 
-# Data Scientist / Analyst
+# IT Product/Project Manager, AI Application Specialist 
 
 ### Executive Summary
 <blockquote style="border-left: 4px solid orange; padding-left: 10px;">
-  A professional with a background in Project Management seeking to transition into data science having garnered skills towards data analysis via self-study.
+  A professional with a background in Project Management leveraging AI applications to solve real world problems at 10x conventional speed and adding tremendous value to business entities.
 </blockquote>
 
 <br>
@@ -29,6 +29,7 @@
 
 | Programming Language | Skill                                    | Associated Tools                                  |
 |:---                  |                  :----:                  | :---                                              |
+| Typescript 	       |Problem solving / Operations Automation   |AI - ChatGPT, Claude, Perplexity, Grok, Kimi etc.  |
 | Python 	       |Data Analysis                             |Numpy, Pandas, Advanced MS Excel                   |
 | SQL                  |Data Analysis/ Database Management        |MySQL Workbench/Shell, SQL Server Management Studio|
 | Python               |Data Visualization                        |Seaborn, Power BI, MS Excel                        |   
@@ -37,8 +38,8 @@
 
 ### Certifications 
 <div>
-<img src="https://img.shields.io/badge/-WorldQuant%20University%20Data%20Science-2E86C1?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Data%20Analyst%20with%20Python%20(DataCamp)-058C42?style=for-the-badge&logo=DataCamp&logoColor=white" />
+<img src="https://img.shields.io/badge/-WorldQuant%20University%20Data%20Science-2E86C1?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 
