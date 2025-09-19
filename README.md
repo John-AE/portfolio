@@ -1,9 +1,9 @@
 
-# IT Product/Project Manager, AI Application Specialist 
+# Software Engineer/Project Manager/ Entry Level Full Stack Developer 
 
 ### Executive Summary
 <blockquote style="border-left: 4px solid orange; padding-left: 10px;">
-  A professional with a background in Project Management leveraging AI applications to solve real world problems at 10x conventional speed and adding tremendous value to business entities.
+  A professional with a background in Project Management leveraging AI applications to solve real world problems at impressive speeds and adding tremendous value to business entities.
 </blockquote>
 
 <br>
