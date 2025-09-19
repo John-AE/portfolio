@@ -51,6 +51,13 @@
 - Data Analyst with Python Track (DataCamp)
 
 
+
+## Web App and Mobile Projects
+- [NaijaReceipt](https:www.naijareceipt.com.ng) Using HTML, CSS, Typescript
+- [NCare Nigeria](https://123185.xyz) A comprehensive, modern hospital management system designed specifically for Nigerian healthcare facilities.
+- Created Android App by making a web view app of the NaijaReceipt Web app (https:www.naijareceipt.com.ng).
+
+
 ## Data Science Projects
 - [Analyzing CO2 Emissions](https://github.com/John-AE/Analyzing-CO2-Emissions/blob/main/README.md) Using Pandas and Seaborn Python Packages
 - [Bank Customer Churn](https://github.com/John-AE/Bank_Customer_Churn/blob/main/README.md) Using MySQL
