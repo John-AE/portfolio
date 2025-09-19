@@ -1,5 +1,5 @@
 
-# Software Engineer/Project Manager/ Entry Level Full Stack Developer 
+# Software Engineer/Project Manager/ Entry-Level Full Stack Developer 
 
 ### Executive Summary
 <blockquote style="border-left: 4px solid orange; padding-left: 10px;">
